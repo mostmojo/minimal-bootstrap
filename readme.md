@@ -17,4 +17,4 @@
       <div class="col-sm-3 col-xs-12"><img src="https://via.placeholder.com/1000x700" class="img-fluid" alt="Responsive Image Demo" /></div>
     </div>
   </div>
-	```
+
